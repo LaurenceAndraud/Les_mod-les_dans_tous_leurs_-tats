@@ -1,0 +1,44 @@
+Organisation pour le brief "Les modèles dans tous leurs états"
+
+
+Tâches
+
+1/ Mise en place de son environnement : création d'un nouveau repository
+2/ Elaboration du plan d'action et du planning
+3/ Prise de connaissance des documents et ressources fournies
+4/ Rédaction des jupyter notebook tutoriels
+5/ Mises à jour Github
+6/ Rédaction du document expliquant la démarche et les installations nécessaires
+7/ Rédaction d'un ReadMe afin d'expliquer le brief et le contexte de ce dernier 
+8/ Envoi du rendu sur la plateforme Simplonline
+
+
+Planning prévisionnel : 
+(à noter : deadline pour le 16/11/2022, MAIS rédaction du planning prévue pour le 14/11, fin de matinée, pour le chef de projet)
+
+Lundi 14/11 - 5h30 de travail prévue
+matin (pas d'interruption) :
+- rédaction du planning et des tâches à effectuer
+- lecture des documents et ressources fournies
+- relecture du cours collectif réalisé le 10/11
+- rédaction du premier tutoriel
+- présentation du planning en fin de matinée
+après-midi (interruption cours d'anglais de 15h à 16h30) :
+- rédaction du premier tutoriel
+
+Mardi 15/11 - 6h de travail prévue
+matin (intervention ATOS de 11h à 12h) :
+- relecture des documents 
+- rédaction du second tutoriel
+après-midi (pas d'intervention) :
+- rédaction du second tutoriel
+
+Mercredi 16/11 - 5h de travail prévue
+matin (inauguration 10h à 12h) :
+- relecture des documents
+- rédaction du troisième tutoriel
+après-midi (pas d'intervention) :
+- rédaction du troisième tutoriel
+- rédaction des documents attendus pour le livrable (procédure d'installation, ReadMe, planning mis à jour suite à ces réalisations)
+- vérification du contenu 
+- envoi sur Simplonline
