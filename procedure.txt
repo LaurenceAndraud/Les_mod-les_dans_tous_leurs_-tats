@@ -1,0 +1,14 @@
+Procédure d'installation :
+
+Les tutoriels qui sont à consulter sont sur le format d'un Jupyter Notebook. Afin de pouvoir les lire, veuillez vous rapporter à ces instructions.
+
+1. télécharger Anaconda, via le lien suivant :
+https://www.anaconda.com/products/distribution
+2. télécharger également les tutoriels désirés
+2. choisir l'installation en fonction de votre OS
+3. Préférer la version la plus récente
+4. Ouvrer la page principale, et se rapporter à "Jupyter Notebook"
+5. Cliquer sur 'launch'
+6. Sur la page principale de Jupyter, cliquer sur 'upload'
+7. Sélectionner les notebook désirés
+8. Une fois téléchargés, vous pouvez consulter les tutoriels
