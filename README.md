@@ -21,5 +21,5 @@ Pour ce brief, on retrouve donc les documents suivants :
 - Tutoriel 1 - Hand written digits.ipynb
 - Tutoriel 2 - dataset California Housing.ipynb
 - Tutoriel 3 - dataset iris.ipynb
-- Correction de Rémi : les notebook de Rémi Prince que j'ai du corriger.
+- Rémi correction : les notebook de Rémi Prince que j'ai du corriger.
 - procedure.txt
